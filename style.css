@@ -1,5 +1,4 @@
 /* HEADER / NAV BAR STYLES START */
-
 header {
     padding: 20px 35px;
     background-color: #024e76;
@@ -57,9 +56,8 @@ header nav ul li a:hover {
 }
 /* HEADER / NAVBAR STYLES END */
 
-.background-img {
-    width: auto;
-    height: 10%;
+.work-placeholder {
+    align-items: flex-start;
 }
 
 .vl {
